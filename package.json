@@ -1,0 +1,30 @@
+{
+  "name": "sm2-javascript",
+  "version": "1.0.0",
+  "description": "A javascript implementation of the SM2 (SuperMemo 2) algorithm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarrmill/sm2-javascript.git"
+  },
+  "keywords": [
+    "sm2",
+    "javascript"
+  ],
+  "author": "Jarrod Miller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jarrmill/sm2-javascript/issues"
+  },
+  "homepage": "https://github.com/jarrmill/sm2-javascript#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2",
+    "mocha": "^7.1.2"
+  }
+}
